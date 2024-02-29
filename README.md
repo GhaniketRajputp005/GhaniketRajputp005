@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GhaniketRajputp005.GhaniketRajputp005&left_color=royalblue&right_color=darkgreen&left_text=%20Profile%20Visits" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ghaniket+Rajput!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ghaniket+Rajput!;" />
 </h1>
 
 <h3 align="center">An aspiring Full Stack developer from India ᴵᴺ</h3>
@@ -81,9 +81,17 @@
   <h2> ⚡Stats ⚡</h2>
   <br>
   
- ![Readme Stats](https://github-readme-stats.vercel.app/api?username=ghaniketrajputp005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ghaniketrajputp005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ghaniketrajputp005&count_private=true&theme=react&border_radius=10)
+<div align="center">
+    <img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=ghaniketrajputp005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+    <br><br/>
+    <img  align="center" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniketrajputp005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
+    <br><br/>
+    <img  align="center" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaniketrajputp005&show_icons=true&theme=react&locale=en&layout=compact" />
+    <br><br/>
+</div>
+
+
+
 
 
 </div>
@@ -93,6 +101,9 @@
 
 
 
+<hr>
 
-<br/><br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:)" />
+</h1>
 

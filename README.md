@@ -68,7 +68,7 @@
    </h2>
       </span>
    <details>
-    <summary><strong>CLICK to VIEW Trophies</strong></summary>
+    <summary><strong>CLICK to VIEW </strong></summary>
    <div align="center">
       <br>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhaniketRajputp005&column=4&margin-w=15&margin-h=15&theme=matrix&no-bg=true"alt="ghaniketrajputp005" /></a> </p>
@@ -90,7 +90,7 @@
    <br>
   
  <details>
-    <summary>Click to view Stats</summary>
+    <summary><strong>CLICK to VIEW </strong></summary>
    
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=highcontrast)

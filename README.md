@@ -60,13 +60,15 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <div align="center">
+   <span>
    <h2 align="center">
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🏆+🏆+🏆;" alt="Connect with me typing animation" />
       Trophies 
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=🏆+🏆+🏆;" alt="Connect with me typing animation" />
    </h2>
+      </span>
    <details>
-    <summary>Click to view Trophies</summary>
+    <summary><strong>CLICK to VIEW Trophies</strong></summary>
    <div align="center">
       <br>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhaniketRajputp005&column=4&margin-w=15&margin-h=15&theme=matrix&no-bg=true"alt="ghaniketrajputp005" /></a> </p>

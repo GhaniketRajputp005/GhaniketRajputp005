@@ -81,14 +81,19 @@
   <h2> ⚡Stats ⚡</h2>
   <br>
   
-<div align="center">
-    <img align="center" width="50%"  src="https://github-readme-stats.vercel.app/api?username=ghaniketrajputp005&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-    <br><br/>
-    <img  align="center" width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ghaniketrajputp005&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-    <br><br/>
-    <img  align="center" width="50%"src="https://github-readme-stats.vercel.app/api/top-langs?username=ghaniketrajputp005&show_icons=true&theme=react&locale=en&layout=compact" />
-    <br><br/>
-</div>
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=chartreuse_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhaniketRajputp005&theme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhaniketRajputp005&theme=chartreuse_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhaniketRajputp005&theme=chartreuse_dark&utcOffset=8)
+
+
 
 
 

@@ -1,13 +1,41 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="100%" height=300>
 
-<h1
-   align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 100 align = left>
-   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ghaniket Rajput
-      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 100 align = right>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span>
 
-   <h1> 
+   
   
    
       
@@ -18,7 +46,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
     <p align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com/?font=didot:&size=25&center=true&vCenter=true&width=1000&height=70&duration=3000&color=1aff1a&lines=Learning+Full+Stack+Development.;+A+GEU+graduate.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+goona+restart+the+loop+now...;See+ya!+:)" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Hi+There!+👋;I'm+Ghaniket+Rajput!;Learning+Full+Stack+Development.;+A+GEU+undergraduate+majoring+in+Computer+Science.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+goona+restart+the+loop+now...;See+ya!+:)" />
 </p>
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -111,10 +139,11 @@
 <br/>
 <div align="center">
 
-   <img align="left" height=150 width=150 src="https://media.giphy.com/media/xT39D2XcVw2SEFZwGI/giphy.gif">
+   <img align="left" height=150 width=150 src="https://media.giphy.com/media/KczPdt2vsyTnLoPWbn/giphy.gif">
    
    <img src="https://skillicons.dev/icons?i=bootstrap,html,vscode,sublime,github,git,r,opencv&theme=light&perline=4" />
-   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=4" /><br>
+   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=4" />
+    <img align="right" height=150 width=150 src="https://media.giphy.com/media/KczPdt2vsyTnLoPWbn/giphy.gif"><br>
    <br>
 </div>
 <p></p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
@@ -136,12 +165,14 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🏆+🏆+🏆;" alt="Connect with me typing animation" />
       Trophies 
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=🏆+🏆+🏆;" alt="Connect with me typing animation" />
-   </h2>
+   </h2
     
-   <div align="center">
+   <div align="center"><img src="https://media.giphy.com/media/XbsO51SFsJgome55fB/giphy.gif" align = left  height=300 width=300>
       <br>
       <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GhaniketRajputp005&column=4&margin-w=15&margin-h=15&theme=matrix&no-bg=true"alt="ghaniketrajputp005" /></a> </p>
-      <br/>
+    
+   <br/>
+     
    
    </div>
  
@@ -156,19 +187,56 @@
       Stats 
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=⚡+⚡+⚡;" alt="Connect with me typing animation" />
    </h2>
-   <br>
+   <br><img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=700 width=300>
 
-   
+
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=highcontrast)
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhaniketRajputp005&theme=highcontrast)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhaniketRajputp005&theme=highcontrast)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhaniketRajputp005&theme=highcontrast&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
+   ![ ](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhaniketRajputp005&theme=highcontrast)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
+   ![ ](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhaniketRajputp005&theme=highcontrast&utcOffset=8)
+     
   
 </div>
 
  
 <p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=ff7f50&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
 <p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 >  </span> 
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span>
+<span >
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width ="100%" height=300>

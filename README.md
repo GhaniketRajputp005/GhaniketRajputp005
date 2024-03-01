@@ -199,7 +199,7 @@
  
 <p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together."/>
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
 <span >

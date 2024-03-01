@@ -46,7 +46,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-<img align="right" width=500 src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img align="right" width=400 src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <br/>
 <br/>
 <div align="left">
@@ -182,7 +182,7 @@
       Stats 
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=⚡+⚡+⚡;" alt="Connect with me typing animation" />
    </h2>
-   <br><img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=700 width=300>
+   <br><img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=600 width=200>
 
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)

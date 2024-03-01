@@ -46,7 +46,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
 
 
-<img align="right" width=400 src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
+<img align="right" width=300 src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <br/>
 <br/>
 <div align="left">

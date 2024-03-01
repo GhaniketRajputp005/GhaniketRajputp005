@@ -1,25 +1,64 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GhaniketRajputp005.GhaniketRajputp005&left_color=royalblue&right_color=darkgreen&left_text=%20Profile%20Visits" />
 <p
    align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&color=1aff1a&lines=Hi+There!+👋;+I'm+Ghaniket+Rajput!;" />
+   Hi , I'm Ghaniket Rajput
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 </p>
-<h3 align="center">An aspiring Full Stack developer from India ᴵᴺ</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=didot:&size=25&center=true&vCenter=true&width=1000&height=70&duration=3000&color=1aff1a&lines=Learning+Full+Stack+Development.;+A+GEU+graduate.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+goona+restart+the+loop+now...;See+ya!+:)" />
+</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqZW9pNTcxOW1hazc5Mzcyc2VrbjM4c3N5eGdqZzBhZnR4cTEwMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7HEiLR98yaLSpP6cwd/giphy.gif"width=28>
 <br/>
 <br/>
 <div align="left">
+
+
   
-- 🔭 I’m currently working on the Machine learning concepts, Java DSA Foundation Course and [Full Stack Development](https://trainings.internshala.com/)
+- **🔭 I’m currently working on**
+<p>
+   <div>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=250&height=25pt&duration=3000&color=ff7f50&lines=DATA+STRUCTURES+AND+ALGORITHMS;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=f2f502&lines=FULL+STACK+DEVELOPMENT;"/>
+   <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=+ARTIFICIAL+INTELLIGENCE"/>
+   </div>
+</p>
+ 
+- **🌱 I’m currently learning** 
+ <p>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=500&height=25pt&duration=3000&color=f2f502&lines=CASCADING+STYLE+SHEETS;"/><br>
+</p>
 
-- 🌱 I’m currently learning **Android Programming, Blender, React Js, Python**
+- **👯 I’m looking to collaborate on** 
+<p>
 
-- 👯 I’m looking to collaborate on **Web Development**
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=f2f502&lines=WEB+DEVELOPMENT;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff7f50&lines=MACHINE+LEARNING;"/>
+   
+   
+</p>
 
-- 🤝 I’m looking for help with **Blender**
+- **🤝 I’m looking for help with**
+ <p>
 
-- 💬 Ask me about **Blender, C++, Css, Html, Machine Learning**
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=f2f502&lines=APPLICATION+DEVELOPMENT;"/><br>
 
-- 📫 How to reach me **prabh156dps@gmail.com**
+   
+   
+</p>
+
+- **💬 Ask me about**
+ <p>
+   <div>
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=SegoeUI:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=DEVOPS;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=ff7f50&lines=DATABASE+MANAGEMENT+SYSTEM+(DBMS);"/>  <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff7f50&lines=OBJECT+ORIENTED+PROGRAMMING+(OOP)"/> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=f2f502&lines=OPERATING+SYSTEM+(OS);"/>
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=COMPUTER+NETWORKS+(CN)"/>
+     
+       
+   </div>
+</p>
 
 - ⚡ Fun fact **I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along!!**
    <br>
@@ -34,6 +73,7 @@
 </h2>
 <br/>
 <div align="center">
+   <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width = 90 align="left" />
    <a href="mailto:ghaniketrajput29@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
    </a>
@@ -111,5 +151,5 @@
  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=ff7f50&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
 <p>

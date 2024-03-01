@@ -1,9 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GhaniketRajputp005.GhaniketRajputp005&left_color=royalblue&right_color=darkgreen&left_text=%20Profile%20Visits" />
-<h1 
+<p
    align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&color=1aff1a&lines=Hi+There!+👋;+I'm+Ghaniket+Rajput!;" />
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-</h1>
+</p>
 <h3 align="center">An aspiring Full Stack developer from India ᴵᴺ</h3>
 <br/>
 <br/>
@@ -16,6 +16,7 @@
    <br>
 </div>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🔗+🔗+🔗;" alt="Connect with me typing animation" />
    Connect with me
@@ -99,6 +100,6 @@
 
  
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:)" />
-</h1>
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=1aff1a&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
+<p>

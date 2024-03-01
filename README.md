@@ -1,14 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GhaniketRajputp005.GhaniketRajputp005&left_color=royalblue&right_color=darkgreen&left_text=%20Profile%20Visits" />
-<p
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="100%" height=300>
+
+<h1
    align="center">
-   Hi , I'm Ghaniket Rajput
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 100 align = left>
+   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ghaniket Rajput
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 100 align = right>
+
+   <h1> 
+  
+   
+      
+   </p>
 </p>
 
-<p align="center">
+
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
+    <p align="center">
+  
 <img src="https://readme-typing-svg.herokuapp.com/?font=didot:&size=25&center=true&vCenter=true&width=1000&height=70&duration=3000&color=1aff1a&lines=Learning+Full+Stack+Development.;+A+GEU+graduate.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+goona+restart+the+loop+now...;See+ya!+:)" />
 </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVqZW9pNTcxOW1hazc5Mzcyc2VrbjM4c3N5eGdqZzBhZnR4cTEwMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/7HEiLR98yaLSpP6cwd/giphy.gif"width=28>
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
+
+
+<img align="right" width=500 src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif">
 <br/>
 <br/>
 <div align="left">
@@ -18,7 +33,7 @@
 - **🔭 I’m currently working on**
 <p>
    <div>
-       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=250&height=25pt&duration=3000&color=ff7f50&lines=DATA+STRUCTURES+AND+ALGORITHMS;"/><br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=ff7f50&lines=DATA+STRUCTURES+AND+ALGORITHMS;"/><br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=f2f502&lines=FULL+STACK+DEVELOPMENT;"/>
    <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=+ARTIFICIAL+INTELLIGENCE"/>
    </div>
@@ -26,7 +41,7 @@
  
 - **🌱 I’m currently learning** 
  <p>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=500&height=25pt&duration=3000&color=f2f502&lines=CASCADING+STYLE+SHEETS;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=400&height=25pt&duration=3000&color=f2f502&lines=CASCADING+STYLE+SHEETS;"/><br>
 </p>
 
 - **👯 I’m looking to collaborate on** 
@@ -64,7 +79,7 @@
    <br>
    <br>
 </div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🔗+🔗+🔗;" alt="Connect with me typing animation" />
@@ -73,7 +88,8 @@
 </h2>
 <br/>
 <div align="center">
-   <img src="https://media.giphy.com/media/3oFzmeVbeXIfBUl5sI/giphy.gif" width = 90 align="left" />
+   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width = 90 align="left" />
+   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width = 90 align="right" />
    <a href="mailto:ghaniketrajput29@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
    </a>
@@ -86,7 +102,7 @@
    <br>
    <br>
 </div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=⚒️+⚒️+⚒️;" alt="Connect with me typing animation" />
    Languages-Frameworks-Tools
@@ -94,11 +110,14 @@
 </h2>
 <br/>
 <div align="center">
+
+   <img align="left" height=150 width=150 src="https://media.giphy.com/media/xT39D2XcVw2SEFZwGI/giphy.gif">
+   
    <img src="https://skillicons.dev/icons?i=bootstrap,html,vscode,sublime,github,git,r,opencv&theme=light&perline=4" />
    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=4" /><br>
    <br>
 </div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p></p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 <h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🐍+🐍+🐍;" alt="Connect with me typing animation" />
    Contributions 
@@ -108,8 +127,8 @@
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
    <br>
 </div>
-
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 
 <div align="center">
   
@@ -129,7 +148,7 @@
 
 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 
    
    <h2 align="center">
@@ -149,7 +168,7 @@
 </div>
 
  
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=800&height=70&duration=2000&color=ff7f50&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);+Learn++and+grow+together"/>
 <p>

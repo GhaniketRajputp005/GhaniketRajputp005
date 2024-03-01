@@ -41,7 +41,7 @@
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
     <p align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Hi+There!+👋;I'm+Ghaniket+Rajput!;Learning+Full+Stack+Development.;+A+GEU+undergraduate+majoring+in+Computer+Science.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+goona+restart+the+loop+now...;See+ya!+:)" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=1aff1a&lines=Hi+There!+👋;I'm+Ghaniket+Rajput!;Learning+Full+Stack+Development.;+A+GEU+undergraduate+majoring+in+Computer+Science.;+A+problem+solver.;An+innovative+thinker.;A+.+.+.+cool+guy+?;Ok...+I'm+running+out+of+ideas...;+Uhh...+you+can+scroll+down+to+see+my+projects+now...;+Seriously,+my+projects+are+really+cool,+go+check+them+out!;You+are+uh...+still+here+?;Ok+this+has+been+fun,+but+I'm+gonna+restart+the+loop+now...;See+ya!+:)" />
 </p>
    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width:10%; display: inline-block;" data-target="animated-image.originalImage">
 
@@ -135,11 +135,11 @@
 <br/>
 <div align="center">
 
-   <img align="left" height=150 width=150 src="https://media.giphy.com/media/KczPdt2vsyTnLoPWbn/giphy.gif">
+   <img align="right" height=150 width=250 src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif">
    
    <img src="https://skillicons.dev/icons?i=bootstrap,html,vscode,sublime,github,git,r,opencv&theme=light&perline=4" />
    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=4" />
-    <img align="right" height=150 width=150 src="https://media.giphy.com/media/KczPdt2vsyTnLoPWbn/giphy.gif"><br>
+ 
    <br>
 </div>
 <p></p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
@@ -187,11 +187,11 @@
 <!--    <br> <img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=600 width=200> -->
 
 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
-   ![ ](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhaniketRajputp005&theme=highcontrast)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
-   ![ ](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhaniketRajputp005&theme=highcontrast&utcOffset=8)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
+ ![ ](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GhaniketRajputp005&theme=highcontrast)
+ &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GhaniketRajputp005&theme=highcontrast)&nbsp;&nbsp;&nbsp;
+ ![ ](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GhaniketRajputp005&theme=highcontrast&utcOffset=8)
      
   
 </div>

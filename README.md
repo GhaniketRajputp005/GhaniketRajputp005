@@ -75,7 +75,7 @@
    
    
 </p>
-<img align="right" width=300 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+<img align="right" width=400 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 - **🤝 I’m looking for help with**
  <p>
 

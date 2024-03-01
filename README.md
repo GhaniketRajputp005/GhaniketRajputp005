@@ -182,7 +182,8 @@
       Stats 
       <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=⚡+⚡+⚡;" alt="Connect with me typing animation" />
    </h2>
-   <br><img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=600 width=200>
+   <br>
+<!--    <br> <img src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif" align = right  height=600 width=200> -->
 
 
    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GhaniketRajputp005&theme=highcontrast)

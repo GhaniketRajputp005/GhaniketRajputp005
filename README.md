@@ -8,10 +8,20 @@
 <br/>
 <br/>
 <div align="left">
-   🔭 I’m currently working on **Web Development**
-   🌱 I’m currently learning **HTML, CSS, JAVASCRIPT**
-   💬 Ask me about **DSA, OOPS, DBMS, OS, Software Engineering, Computer Networks or anything [here](https://github.com/GhaniketRajputp005/GhaniketRajputp005/issues)**
-   ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+  
+- 🔭 I’m currently working on the Machine learning concepts, Java DSA Foundation Course and [Full Stack Development](https://trainings.internshala.com/)
+
+- 🌱 I’m currently learning **Android Programming, Blender, React Js, Python**
+
+- 👯 I’m looking to collaborate on **Web Development**
+
+- 🤝 I’m looking for help with **Blender**
+
+- 💬 Ask me about **Blender, C++, Css, Html, Machine Learning**
+
+- 📫 How to reach me **prabh156dps@gmail.com**
+
+- ⚡ Fun fact **I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along!!**
    <br>
    <br>
 </div>

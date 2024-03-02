@@ -52,51 +52,55 @@
 <div align="left">
 
 
-  
+&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=GhaniketRajputp005&label=Profile%20Hits&color=9900ff&style=flat" alt="harsuuu"  /> 
+
 - **🔭 I’m currently working on**
 <p>
    <div>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=ff7f50&lines=DATA+STRUCTURES+AND+ALGORITHMS;"/><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=f2f502&lines=FULL+STACK+DEVELOPMENT;"/>
-   <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=+ARTIFICIAL+INTELLIGENCE"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff0099&lines=FULL+STACK+DEVELOPMENT;"/>
+   <br>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=0099ff&lines=+ARTIFICIAL+INTELLIGENCE"/>
    </div>
 </p>
  
 - **🌱 I’m currently learning** 
  <p>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=400&height=25pt&duration=3000&color=f2f502&lines=CASCADING+STYLE+SHEETS;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=400&height=25pt&duration=3000&color=9900ff&lines=CASCADING+STYLE+SHEETS;"/><br>
 </p>
 
 - **👯 I’m looking to collaborate on** 
 <p>
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=f2f502&lines=WEB+DEVELOPMENT;"/><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff7f50&lines=MACHINE+LEARNING;"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=00ff99&lines=WEB+DEVELOPMENT;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff9900&lines=MACHINE+LEARNING;"/>
    
    
 </p>
 <img align="right" width=300 src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
+
 - **🤝 I’m looking for help with**
  <p>
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=f2f502&lines=APPLICATION+DEVELOPMENT;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=00ff99&lines=APPLICATION+DEVELOPMENT;"/><br>
 
    
    
 </p>
 
 
-- **💬 Ask me about**
+- **💬 Ask me about**[here](https://github.com/GhaniketRajputp005/GhaniketRajputp005/issues)
  <p>
-   <div>
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=SegoeUI:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=DEVOPS;"/><br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=ff7f50&lines=DATABASE+MANAGEMENT+SYSTEM+(DBMS);"/>  <br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff7f50&lines=OBJECT+ORIENTED+PROGRAMMING+(OOP)"/> <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=f2f502&lines=OPERATING+SYSTEM+(OS);"/>
-   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff7f50&lines=COMPUTER+NETWORKS+(CN)"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=4000&color=ff9900&lines=DEVOPS+CONCEPTS;"/> 
+</br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=3000&color=0099ff&lines=DATABASE+MANAGEMENT+SYSTEM+(DBMS);"/>  <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=2000&color=ff0099&lines=OBJECT+ORIENTED+PROGRAMMING+(OOP)"/> <br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=ff9900&lines=OPERATING+SYSTEM+(OS);"/>
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=9900ff&lines=COMPUTER+NETWORKS+(CN)"/>
+   <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=0099ff&lines=CLOUD+COMPUTING+CONCEPTS"/>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=450&height=25pt&duration=1000&color=00ff99&lines=SOFTWARE+ENGINEERING"/>
      
        
-   </div>
+   
 </p>
 
 - ⚡ Fun fact **I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along!!**

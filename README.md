@@ -1,6 +1,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width ="100%" height=300>
-
+<div style= "width: 4rem;">
 <span >
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
 <span >
@@ -28,6 +28,7 @@
 <span >
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49 ></span><span >
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width = 49></span>
+</div>
 
 
    
@@ -52,7 +53,7 @@
 <div align="left">
 
 
-&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=GhaniketRajputp005&label=Profile%20Hits&color=9900ff&style=flat" alt="harsuuu"  /> 
+&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=GhaniketRajputp005&label=Profile%20Hits&color=9900ff"  /> 
 
 - **🔭 I’m currently working on**
 <p>
@@ -118,14 +119,15 @@
 <div align="center">
    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width = 90 align="left" />
    <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width = 90 align="right" />
-   <a href="mailto:ghaniketrajput29@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-   </a>
+
+  <a href="mailto:ghaniketrajput29@gmail.com">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email Me" width="90">
+</a>
+   
    <a href="https://www.linkedin.com/in/ghaniket-rajput-353412222" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" target="_blank" width = 90 />
    </a>
-   <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  
    </a>
    <br>
    <br>

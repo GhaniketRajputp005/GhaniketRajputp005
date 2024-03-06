@@ -107,6 +107,8 @@
 </p>
 
 - ⚡ Fun fact<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width=30 height= 30> **"Debugging: Being the detective in a crime movie where you are also the murderer."!!**
+
+ - ⚡ **"Remember to keep striving for progress over perfection, a little progress every day will go a very long way..."!!**
    <br>
    <br>
 </div>

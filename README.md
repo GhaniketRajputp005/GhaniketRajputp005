@@ -147,8 +147,8 @@
 
    <img align="right" height=150 width=250 src="https://media.giphy.com/media/1isaW25NXJngn6ZmFZ/giphy.gif">
    
-   <img src="https://skillicons.dev/icons?i=bootstrap,html,vscode,sublime,github,git,r,opencv&theme=light&perline=4" />
-   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=4" />
+   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,sublime,github,git,r,opencv&theme=light&perline=3" />
+   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,django,eclipse,ubuntu&theme=light&perline=3" />
  
    <br>
 </div>

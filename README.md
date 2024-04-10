@@ -68,7 +68,7 @@
  
 - **🌱 I’m currently learning** 
  <p>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=400&height=25pt&duration=3000&color=9900ff&lines=CASCADING+STYLE+SHEETS;"/><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous:&size=20pt&center=center&vCenter=true&width=400&height=25pt&duration=3000&color=9900ff&lines=JAVASCRIPT;"/><br>
 </p>
 
 - **👯 I’m looking to collaborate on** 

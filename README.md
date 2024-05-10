@@ -155,7 +155,7 @@
 <p></p><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></p>
 <h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=110&height=26&duration=2000&lines=🐍+🐍+🐍;" alt="Connect with me typing animation" />
-   Contributions 
+   Just a Simulation 
    <img src="https://readme-typing-svg.herokuapp.com/?font=ArchivoBlack:&size=21&vCenter=true&width=150&height=26&duration=2000&lines=🐍+🐍+🐍;" alt="Connect with me typing animation" />
 </h2>
 <div align="center">
